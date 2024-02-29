@@ -3,42 +3,42 @@
 ## Tech Stack
 ramzimalhas/templates is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [C#](http://csharp.net) – Languages
+- [C++](http://www.cplusplus.com/) – Languages
+- [F#](http://fsharp.org/) – Languages
+- [Golang](http://golang.org/) – Languages
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [PHP](http://www.php.net/) – Languages
 - [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Golang](http://golang.org/) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [C#](http://csharp.net) – Languages
-- [MySQL](http://www.mysql.com) – Databases
-- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [MongoDB](http://www.mongodb.com/) – Databases
-- [C++](http://www.cplusplus.com/) – Languages
 - [Rust](http://www.rust-lang.org/) – Languages
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Debian](https://www.debian.org/) – Operating Systems
-- [JUnit](http://junit.org/) – Testing Frameworks
-- [F#](http://fsharp.org/) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
+- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
+- [MongoDB](http://www.mongodb.com/) – Databases
+- [MySQL](http://www.mysql.com) – Databases
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
 - [CMake](http://www.cmake.org/) – Java Build Tools
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [Docker Compose](https://github.com/docker/compose) – Container Tools
 - [ESLint](http://eslint.org/) – Code Review
-- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
-- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [JUnit](http://junit.org/) – Testing Frameworks
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
 - [Bluebird](https://github.com/petkaantonov/bluebird/) – Javascript Utilities & Libraries
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Debian](https://www.debian.org/) – Operating Systems
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -48,42 +48,42 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ramzimalhas/templates is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2155/yRNL7yTW.png' alt='F#'/> [F#](http://fsharp.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1656/vd4gAekh.png' alt='Debian'/> [Debian](https://www.debian.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2155/yRNL7yTW.png' alt='F#'/> [F#](http://fsharp.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/11394/appsync.png' alt='Serverless AppSync'/> [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/11394/appsync.png' alt='Serverless AppSync'/> [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
 - <img width='25' height='25' src='https://img.stackshare.io/service/11991/bb.png' alt='Bluebird'/> [Bluebird](https://github.com/petkaantonov/bluebird/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1656/vd4gAekh.png' alt='Debian'/> [Debian](https://www.debian.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -94,7 +94,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/templates](https://github.com/ramzimalhas/templates)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|52<br/>Tools used|01/23/24 <br/>Report generated|
+|52<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -483,7 +483,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[junit:junit](http://junit.org)|v4.13.1|10/05/22|Samruddhi Khandale |EPL-1.0|N/A|
-|[org.postgresql:postgresql](http://jdbc.postgresql.org)|v42.3.3|10/05/22|Samruddhi Khandale |BSD-2-Clause|[CVE-2022-31197](https://github.com/advisories/GHSA-r38f-c4h4-hqq2) (High)<br/>[CVE-2022-41946](https://github.com/advisories/GHSA-562r-vg33-8x8h) (Moderate)|
+|[org.postgresql:postgresql](http://jdbc.postgresql.org)|v42.3.3|10/05/22|Samruddhi Khandale |BSD-2-Clause|[CVE-2024-1597](https://github.com/advisories/GHSA-24rp-q3w6-vc56) (Critical)<br/>[](https://github.com/advisories/GHSA-xfg6-62px-cxc2) (Critical)<br/>[CVE-2022-31197](https://github.com/advisories/GHSA-r38f-c4h4-hqq2) (High)<br/>[CVE-2022-41946](https://github.com/advisories/GHSA-562r-vg33-8x8h) (Moderate)|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/21112/default_1346bbda8fe03e4dce5601323a3ca47a10c1ae36.png'/> Go Packages (1)
